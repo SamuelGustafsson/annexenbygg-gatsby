@@ -1,0 +1,21 @@
+{
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.renderWhitespace": "boundary",
+  "editor.rulers": [140],
+  "editor.formatOnSave": true,
+  "files.encoding": "utf8",
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "search.exclude": {
+    "public/**": true,
+    "node_modules/**": true
+  },
+  // Add color to vscodewindow tilebar
+  "workbench.colorCustomizations": {
+    "titleBar.activeForeground": "#000",
+    "titleBar.inactiveForeground": "#1a82becc",
+    "titleBar.activeBackground": "#1a82becc",
+    "titleBar.inactiveBackground": "#13628fcc"
+  }
+}
